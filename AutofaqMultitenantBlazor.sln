@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutofaqMultitenantBlazor", "src\AutofaqMultitenantBlazor\AutofaqMultitenantBlazor.csproj", "{6C1F149C-970D-45D1-9F68-F984DB2706C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F67B5628-661F-474F-965B-EDA469C6DFD1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1F149C-970D-45D1-9F68-F984DB2706C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1F149C-970D-45D1-9F68-F984DB2706C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1F149C-970D-45D1-9F68-F984DB2706C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1F149C-970D-45D1-9F68-F984DB2706C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54692C7E-38FC-46F3-AC3C-D22463CC098A}
+	EndGlobalSection
+EndGlobal
