@@ -15,6 +15,8 @@ namespace AutofaqMultitenantBlazor
                 .Build();
 
             await host.RunAsync();
+
+            // Making Changes
         }
     }
 }
